@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/halo-test/static/css/main.3c99d077.css",
+    "main.js": "/halo-test/static/js/main.56da3d75.js",
+    "index.html": "/halo-test/index.html",
+    "main.3c99d077.css.map": "/halo-test/static/css/main.3c99d077.css.map",
+    "main.56da3d75.js.map": "/halo-test/static/js/main.56da3d75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c99d077.css",
+    "static/js/main.56da3d75.js"
+  ]
+}
