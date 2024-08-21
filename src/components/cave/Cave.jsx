@@ -129,6 +129,15 @@ export function Cave({ caveData, gameScreenHeight, lastSegment, setGameOver, gam
     <>
       <div className='relative'>
         <h1 className='font-bold uppercase text-black absolute -top-[30px]'>current score : {score.current}</h1>
+        <div className='absolute -right-[300px] bg-slate-200 w-[300px] p-3'>
+          <h2 className='font-bold uppercase mb-3'>Controls</h2>
+          <ul>
+            <li><strong>Up Arrow:</strong> Increase vertical speed</li>
+            <li><strong>Down Arrow:</strong> Decrease vertical speed</li>
+            <li><strong>Left Arrow:</strong> Move left</li>
+            <li><strong>Right Arrow:</strong> Move right</li>
+          </ul>
+        </div>
         <div className='absolute -left-[300px] bg-slate-200'>
           <div>
             <h1 className='font-bold uppercase text-center'>Vertical speed</h1>
