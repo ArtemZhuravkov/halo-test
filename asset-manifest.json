@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/halo-test/static/css/main.3c99d077.css",
-    "main.js": "/halo-test/static/js/main.56da3d75.js",
+    "main.css": "/halo-test/static/css/main.0318441f.css",
+    "main.js": "/halo-test/static/js/main.b6cce2a1.js",
     "index.html": "/halo-test/index.html",
-    "main.3c99d077.css.map": "/halo-test/static/css/main.3c99d077.css.map",
-    "main.56da3d75.js.map": "/halo-test/static/js/main.56da3d75.js.map"
+    "main.0318441f.css.map": "/halo-test/static/css/main.0318441f.css.map",
+    "main.b6cce2a1.js.map": "/halo-test/static/js/main.b6cce2a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c99d077.css",
-    "static/js/main.56da3d75.js"
+    "static/css/main.0318441f.css",
+    "static/js/main.b6cce2a1.js"
   ]
 }
